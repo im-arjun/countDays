@@ -1,0 +1,26 @@
+.heading{
+    margin: 0px;
+    font-size: 100px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.parent{
+    height: auto;
+    width: auto;
+    margin: 10px;
+   background-color: rgb(171, 181, 190);
+
+}
+.count{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.dates{
+    margin: 10px;
+
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
